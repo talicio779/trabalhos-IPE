@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1,
+    "frase": "Rei filósofo classificou de ordinários famosos generais espartanos",
+    "explicacao": "pertence a materia biologia: representa os níveis taxonômicos (Reino, Filo, Classe, Ordem, Família, Gênero, Espécie)."
+  },
+  {
+    "id": 2,
+    "frase": "ProMeto a Ana Telefonar",
+    "explicacao": "pertence a materia biologia: ajuda a lembrar as fases da mitose (Prófase, Metáfase, Anáfase, Telófase)."
+  },
+  {
+    "id": 3,
+    "frase": "Antes Tínhamos Galinhas em Casa",
+    "explicacao": "pertence a materia biologia: bases do DNA (Adenina, Timina, Guanina, Citosina)."
+  },
+  {
+    "id": 4,
+    "frase": "Mãe bem gorda e neurótica",
+    "explicacao": "pertence a materia biologia: fases do desenvolvimento embrionário (Mórula, Blástula, Gástrula, Nêurula)."
+  },
+  {
+    "id": 5,
+    "frase": "Que Macēte!",
+    "explicacao": "pertence a materia física: calor sensível Q=mcΔT."
+  },
+  {
+    "id": 6,
+    "frase": "Que Molēza!",
+    "explicacao": "pertence a materia física: calor latente Q=mL."
+  },
+  {
+    "id": 7,
+    "frase": "Por Você, Nunca Rezei Tanto",
+    "explicacao": "pertence a materia física: lei dos gases PV=nRT."
+  },
+  {
+    "id": 8,
+    "frase": "DeltAU... Qui Trabaio!",
+    "explicacao": "pertence a materia física: ΔU = Q − W."
+  },
+  {
+    "id": 9,
+    "frase": "Que TraBalho Alimenta",
+    "explicacao": "pertence a materia física: Q = W + ΔU."
+  },
+  {
+    "id": 10,
+    "frase": "Vi Lambda Ferida",
+    "explicacao": "pertence a materia física: V = λ·f."
+  },
+  {
+    "id": 11,
+    "frase": "A Fonte Tem Incrível Amplitude",
+    "explicacao": "pertence a materia física: qualidades do som."
+  },
+  {
+    "id": 12,
+    "frase": "SoVeTe",
+    "explicacao": "pertence a materia física: MRU S = S0 + Vt."
+  },
+  {
+    "id": 13,
+    "frase": "SoVeTao",
+    "explicacao": "pertence a materia física: MRUV posição S = S0 + V0t + (at²)/2."
+  },
+  {
+    "id": 14,
+    "frase": "Vovô Ateu",
+    "explicacao": "pertence a materia física: V = V0 + at."
+  },
+  {
+    "id": 15,
+    "frase": "Vi Vovô Mais Duas Amigas Suas",
+    "explicacao": "pertence a materia física: Torricelli V² = V0² + 2aΔS."
+  },
+  {
+    "id": 16,
+    "frase": "Fique Rico Meu Amigo!",
+    "explicacao": "pertence a materia física: FR = ma."
+  },
+  {
+    "id": 17,
+    "frase": "Fiel? Ki Xato!",
+    "explicacao": "pertence a materia física: Hooke F = kx."
+  },
+  {
+    "id": 18,
+    "frase": "Fatia de Mussarela no Normal",
+    "explicacao": "pertence a materia física: Fat = μ·N."
+  },
+  {
+    "id": 19,
+    "frase": "Me Ga Habilidosamente",
+    "explicacao": "pertence a materia física: Epg = mgh."
+  },
+  {
+    "id": 20,
+    "frase": "Minha Vovó Caiu de 2",
+    "explicacao": "pertence a materia física: Ec = (mv²)/2."
+  },
+  {
+    "id": 21,
+    "frase": "Uma Fofoca = Um Pivozinho + Um Pilinha",
+    "explicacao": "pertence a materia física: 1/f = 1/p + 1/p′."
+  },
+  {
+    "id": 22,
+    "frase": "Ai! Uii = -Pelinha/Pesão",
+    "explicacao": "pertence a materia física: aumento A = −p′/p = i/o."
+  },
+  {
+    "id": 23,
+    "frase": "Nenhum Sen-i = Nenhum Sen-r",
+    "explicacao": "pertence a materia física: lei de Snell."
+  },
+  {
+    "id": 24,
+    "frase": "MiDi / HiperCon",
+    "explicacao": "pertence a materia física: lentes divergentes e convergentes."
+  },
+  {
+    "id": 25,
+    "frase": "RePLaTaMe",
+    "explicacao": "pertence a materia biologia: fases da meiose."
+  },
+  {
+    "id": 26,
+    "frase": "Cuidado! Protistas Fazem Baderna!",
+    "explicacao": "pertence a materia biologia: grupos dos protozoários."
+  },
+  {
+    "id": 27,
+    "frase": "Manda Pro Pulmão",
+    "explicacao": "pertence a materia biologia: caminho da circulação pulmonar."
+  },
+  {
+    "id": 28,
+    "frase": "Amo Gelo Frio",
+    "explicacao": "pertence a materia biologia: etapas da fotossíntese."
+  },
+  {
+    "id": 29,
+    "frase": "Papai Me Abraçou Ternamente",
+    "explicacao": "pertence a materia biologia: replicação do DNA."
+  },
+  {
+    "id": 30,
+    "frase": "Ácido Come Metal",
+    "explicacao": "pertence a materia quimica: ácidos reagem com metais liberando hidrogênio."
+  },
+  {
+    "id": 31,
+    "frase": "Leo gerou Oxi",
+    "explicacao": "pertence a materia quimica: perda de elétrons é oxidação."
+  },
+  {
+    "id": 32,
+    "frase": "O Rei Comeu Noite e NoAlmoço Feijão",
+    "explicacao": "pertence a materia quimica: prioridade na oxidação."
+  },
+  {
+    "id": 33,
+    "frase": "Hidróxido é OH, meu bem!",
+    "explicacao": "pertence a materia quimica: bases possuem OH-."
+  },
+  {
+    "id": 34,
+    "frase": "Metal dá elétron, não nega!",
+    "explicacao": "pertence a materia quimica: metais doam elétrons."
+  },
+  {
+    "id": 35,
+    "frase": "CuFeNa com ZiNcO",
+    "explicacao": "pertence a materia quimica: deslocamento entre metais."
+  },
+  {
+    "id": 36,
+    "frase": "Fui BoTAr NoCa",
+    "explicacao": "pertence a materia quimica: ordem da eletronegatividade."
+  },
+  {
+    "id": 37,
+    "frase": "LiNaK RbCsFr",
+    "explicacao": "pertence a materia quimica: metais alcalinos."
+  },
+  {
+    "id": 38,
+    "frase": "BeMgCa SrBaRa",
+    "explicacao": "pertence a materia quimica: alcalino-terrosos."
+  }
+]

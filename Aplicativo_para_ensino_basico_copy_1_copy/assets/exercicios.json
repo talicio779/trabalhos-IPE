@@ -1,0 +1,218 @@
+[
+  {
+    "materia": "biologia",
+    "nivel": 1,
+    "pergunta": "Explique a diferença entre células procarióticas e eucarióticas.",
+    "gabarito": "Procariontes não possuem núcleo organizado; eucariontes possuem."
+  },
+  {
+    "materia": "biologia",
+    "nivel": 1,
+    "pergunta": "Qual organela é responsável pela produção de ATP? E qual é responsável pela síntese de proteínas?",
+    "gabarito": "Mitocôndria e ribossomos. Mitocôndria produz ATP; ribossomos produzem proteínas."
+  },
+  {
+    "materia": "biologia",
+    "nivel": 1,
+    "pergunta": "A mitocôndria é fundamental para a produção de energia na célula. Em músculos que trabalham de forma intensa e contínua, espera-se encontrar: A) Pouquíssimas mitocôndrias B) Muitas mitocôndrias C) Apenas lisossomos D) Apenas ribossomos E) Pouco citoplasma",
+    "gabarito": "B. Tecidos com alta demanda energética possuem mais mitocôndrias."
+  },
+  {
+    "materia": "biologia",
+    "nivel": 2,
+    "pergunta": "Explique a diferença entre genótipo e fenótipo.",
+    "gabarito": "Genótipo é composição genética; fenótipo é característica observável."
+  },
+  {
+    "materia": "biologia",
+    "nivel": 2,
+    "pergunta": "Cite uma diferença entre mitose e meiose.",
+    "gabarito": "Mitose forma duas células idênticas; meiose forma quatro haploides."
+  },
+  {
+    "materia": "biologia",
+    "nivel": 2,
+    "pergunta": "Um casal em que o homem é daltônico e a mulher é normal, mas portadora, tem maior chance de gerar: A) Filhos homens normais B) Filhos homens daltônicos C) Filhas mulheres daltônicas D) Filhas normais, mas portadoras E) Somente filhos normais",
+    "gabarito": "B. Filhos homens têm maior probabilidade de expressar o alelo recessivo ligado ao X."
+  },
+  {
+    "materia": "biologia",
+    "nivel": 3,
+    "pergunta": "Explique o conceito de seleção natural segundo Darwin.",
+    "gabarito": "Indivíduos mais adaptados ao ambiente têm maior chance de sobreviver e se reproduzir."
+  },
+  {
+    "materia": "biologia",
+    "nivel": 3,
+    "pergunta": "Defina população, comunidade e ecossistema.",
+    "gabarito": "População: indivíduos da mesma espécie; comunidade: conjunto de populações; ecossistema: comunidade + ambiente."
+  },
+  {
+    "materia": "biologia",
+    "nivel": 3,
+    "pergunta": "O fluxo de energia em ecossistemas é unidirecional porque: A) A energia é reciclada B) A matéria se perde em calor C) A energia se dissipa a cada nível trófico D) Os decompositores impedem retorno E) Os produtores retêm toda energia",
+    "gabarito": "C. A energia se perde como calor em cada nível trófico."
+  },
+  {
+    "materia": "biologia",
+    "nivel": 4,
+    "pergunta": "Por que catalisadores biológicos (enzimas) não são consumidos durante reações metabólicas?",
+    "gabarito": "Eles apenas aceleram reações, mas não são alterados permanentemente."
+  },
+  {
+    "materia": "biologia",
+    "nivel": 4,
+    "pergunta": "Compare clonagem, transgênicos e terapia gênica.",
+    "gabarito": "Clonagem copia organismos; transgênicos recebem genes externos; terapia gênica altera genes para tratar doenças."
+  },
+  {
+    "materia": "biologia",
+    "nivel": 4,
+    "pergunta": "O aumento de CO2 intensifica o aquecimento global porque: A) Reduz fotossíntese B) Aumenta camada de ozônio C) Retém mais calor D) Diminui radiação solar E) Reduz efeito estufa natural",
+    "gabarito": "C. Mais CO2 = maior retenção de calor atmosférico."
+  },
+  {
+    "materia": "fisica",
+    "nivel": 1,
+    "pergunta": "Defina temperatura e calor segundo a Termologia.",
+    "gabarito": "Temperatura é agitação média das partículas; calor é energia transferida."
+  },
+  {
+    "materia": "fisica",
+    "nivel": 1,
+    "pergunta": "Cite os três modos de transferência de calor.",
+    "gabarito": "Condução, convecção e irradiação."
+  },
+  {
+    "materia": "fisica",
+    "nivel": 1,
+    "pergunta": "Uma garrafa térmica usa paredes espelhadas para reduzir: A) Convecção B) Irradiação C) Condução D) Difração E) Refringência",
+    "gabarito": "B. Superfícies espelhadas reduzem perda por radiação térmica."
+  },
+  {
+    "materia": "fisica",
+    "nivel": 2,
+    "pergunta": "Qual a relação entre frequência e período de uma onda?",
+    "gabarito": "São inversamente proporcionais: f = 1/T."
+  },
+  {
+    "materia": "fisica",
+    "nivel": 2,
+    "pergunta": "Explique a diferença entre ondas mecânicas e eletromagnéticas.",
+    "gabarito": "Mecânicas precisam de meio material; eletromagnéticas se propagam no vácuo."
+  },
+  {
+    "materia": "fisica",
+    "nivel": 2,
+    "pergunta": "Um som grave possui: A) Alta frequência B) Baixa frequência C) Grande amplitude D) Baixa velocidade E) Frequência da luz",
+    "gabarito": "B. Sons graves = frequências baixas."
+  },
+  {
+    "materia": "fisica",
+    "nivel": 3,
+    "pergunta": "Enuncie a 1ª Lei de Newton.",
+    "gabarito": "Um corpo em repouso ou movimento permanece assim até força externa atuar."
+  },
+  {
+    "materia": "fisica",
+    "nivel": 3,
+    "pergunta": "Qual a diferença entre trabalho positivo e negativo?",
+    "gabarito": "Positivo quando força e deslocamento têm mesma direção; negativo quando opostos."
+  },
+  {
+    "materia": "fisica",
+    "nivel": 3,
+    "pergunta": "Um bloco empurrado com força constante em superfície sem atrito tem velocidade que: A) Diminui B) Aumenta C) Zera D) Oscila E) Fica constante",
+    "gabarito": "B. Sem atrito, força resulta em aceleração constante."
+  },
+  {
+    "materia": "fisica",
+    "nivel": 4,
+    "pergunta": "Por que a luz sofre refração ao mudar de um meio para outro?",
+    "gabarito": "Porque muda sua velocidade ao entrar em meios com índices diferentes."
+  },
+  {
+    "materia": "fisica",
+    "nivel": 4,
+    "pergunta": "O que é empuxo e do que depende sua intensidade?",
+    "gabarito": "Força para cima exercida por fluido; depende da densidade do fluido e volume deslocado."
+  },
+  {
+    "materia": "fisica",
+    "nivel": 4,
+    "pergunta": "Um objeto afunda na água mas flutua no óleo porque: A) Densidade do óleo é menor B) Densidade do objeto é menor C) Mais atrito no óleo D) Empuxo igual ao peso E) Hidrofobicidade",
+    "gabarito": "A. O óleo é menos denso que a água."
+  },
+  {
+    "materia": "quimica",
+    "nivel": 1,
+    "pergunta": "Defina substância pura e mistura.",
+    "gabarito": "Substância pura tem composição fixa; mistura reúne duas ou mais substâncias."
+  },
+  {
+    "materia": "quimica",
+    "nivel": 1,
+    "pergunta": "Classifique: a) Água + sal b) Água + areia",
+    "gabarito": "a) homogênea, b) heterogênea. Sal dissolve; areia não dissolve."
+  },
+  {
+    "materia": "quimica",
+    "nivel": 1,
+    "pergunta": "Separação de areia e sal dissolvido pode ser feita por: A) Decantação e destilação B) Filtração e destilação C) Centrifugação e sublimação D) Imantação e filtração E) Levigação",
+    "gabarito": "B. Filtra-se a areia; destila-se o sal dissolvido."
+  },
+  {
+    "materia": "quimica",
+    "nivel": 2,
+    "pergunta": "Explique a diferença entre ligações iônicas e covalentes.",
+    "gabarito": "Iônica = transferência de elétrons; covalente = compartilhamento."
+  },
+  {
+    "materia": "quimica",
+    "nivel": 2,
+    "pergunta": "O que determina a polaridade de uma molécula?",
+    "gabarito": "Geometria e diferença de eletronegatividade."
+  },
+  {
+    "materia": "quimica",
+    "nivel": 2,
+    "pergunta": "A água tem alto ponto de ebulição devido: A) Ligação iônica B) Metálica C) London D) Pontes de hidrogênio E) Não polaridade",
+    "gabarito": "D. As pontes de hidrogênio aumentam o ponto de ebulição."
+  },
+  {
+    "materia": "quimica",
+    "nivel": 3,
+    "pergunta": "O que é reagente limitante?",
+    "gabarito": "É o reagente que se esgota primeiro e limita a quantidade de produto."
+  },
+  {
+    "materia": "quimica",
+    "nivel": 3,
+    "pergunta": "Balanceie: H2 + O2 → H2O",
+    "gabarito": "2H2 + O2 → 2H2O."
+  },
+  {
+    "materia": "quimica",
+    "nivel": 3,
+    "pergunta": "Em combustão completa o único gás contendo carbono é: A) CO B) CO2 C) CH4 D) C2H2 E) HCOOH",
+    "gabarito": "B. Combustão completa produz CO2."
+  },
+  {
+    "materia": "quimica",
+    "nivel": 4,
+    "pergunta": "Diferença entre isomeria de cadeia e de posição.",
+    "gabarito": "Cadeia = estrutura diferente; posição = mesmo grupo em locais diferentes."
+  },
+  {
+    "materia": "quimica",
+    "nivel": 4,
+    "pergunta": "Como catalisadores alteram a energia de ativação?",
+    "gabarito": "Diminuem a energia de ativação e aceleram reações."
+  },
+  {
+    "materia": "quimica",
+    "nivel": 4,
+    "pergunta": "Segundo Le Chatelier, aumento de reagentes favorece: A) Diminuir velocidade B) Não altera C) Reação direta D) Reação inversa E) Zerar velocidades",
+    "gabarito": "C. Mais reagentes deslocam o equilíbrio para os produtos."
+  }
+]
